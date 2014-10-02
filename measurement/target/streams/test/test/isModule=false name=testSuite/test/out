@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mtestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- time test[0m[0m
+[0m[[0minfo[0m] [0m[32m- time test with N[0m[0m
+[0m[[0minfo[0m] [0m[32m- revOrder(5)[0m[0m
+[0m[[0minfo[0m] [0m[32m- revOrder(0)[0m[0m
+[0m[[0minfo[0m] [0m[32m- randomInts(5)[0m[0m
+[0m[[0minfo[0m] [0m[32m- Orderedlist insertAll Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- BST insertAll Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- AVL insertAll Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- Orderedlist is memberAll Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- BST is memberAll Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- AVL is memberAll Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- timing insertAllAVL on random input[0m[0m
+[0m[[0minfo[0m] [0m[32m- timing insertAllBLT on random input[0m[0m
+[0m[[0minfo[0m] [0m[32m- timing insertAllOrdList on random input[0m[0m
